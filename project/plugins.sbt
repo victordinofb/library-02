@@ -6,5 +6,5 @@ logLevel := Level.Warn
 
 //lazy val sbtGithubActionsPlugin = uri("https://github.com/djspiewak/sbt-github-actions.git") 
 
-addSbtPlugin("com.codecommit" % "sbt-github-packages" % "0.5.2")
-addSbtPlugin("com.codecommit" % "sbt-github-actions" % "0.13.0")
+//addSbtPlugin("com.codecommit" % "sbt-github-packages" % "0.5.2")
+//addSbtPlugin("com.codecommit" % "sbt-github-actions" % "0.13.0")
